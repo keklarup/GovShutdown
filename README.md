@@ -8,22 +8,22 @@ The first prong didn't generate enough data to get great insights. There may be 
 ## Prong 1: realtime tracking of a few websites 
 Number of words in a headline varies a bit:
 
-<img src="./GovShutdown/Gov_shutdown_figs/newsites_headline_word_counts.png" />
+<img src="./Gov_shutdown_figs/newsites_headline_word_counts.png" />
 
 But, in terms of subjectivity or polarity, everything's muddled:
 
-<img src="./GovShutdown/Gov_shutdown_figs/newsites_headline_subjectivity.png" />
+<img src="./Gov_shutdown_figs/newsites_headline_subjectivity.png" />
 
-<img src="./GovShutdown/Gov_shutdown_figs/newsites_headline_polarity.png" />
+<img src="./Gov_shutdown_figs/newsites_headline_polarity.png" />
 
 ## Prong 2: newpaper headlines from Newseum
 
 Better analysis may be done with this data set in the future, but for now here are some word clouds from various days when the government was shutdown:
 
-<img src="./GovShutdown/Gov_shutdown_figs/20131001.png" />>
+<img src="./Gov_shutdown_figs/20131001.png" />>
 
-<img src="./GovShutdown/Gov_shutdown_figs/20131017.png" />
+<img src="./Gov_shutdown_figs/20131017.png" />
 
-<img src="./GovShutdown/Gov_shutdown_figs/20180121.png" />
+<img src="./Gov_shutdown_figs/20180121.png" />
 
-<img src="./GovShutdown/Gov_shutdown_figs/20180209.png" />
+<img src="./Gov_shutdown_figs/20180209.png" />
